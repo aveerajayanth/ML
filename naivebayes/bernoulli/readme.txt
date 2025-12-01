@@ -1,0 +1,1 @@
+run the ipynb file , it also has the model zip and custom input
